@@ -1,6 +1,6 @@
 
 
-# 👋 Hi, I'm Nasir Uddin
+#  Hi, I'm Nasir Uddin
 
 I’m an **Artificial Intelligence undergraduate at Rogers State University** and an **international student who loves exploring new things**. Every challenge I face becomes an opportunity to grow, and I carry that same mindset into my projects and learning.
 
