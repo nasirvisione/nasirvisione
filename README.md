@@ -58,3 +58,6 @@ I’m an **Artificial Intelligence undergraduate at Rogers State University** an
 ---
 
 ![snake gif](https://github.com/nasirvisione/snk/blob/output/github-contribution-grid-snake.svg)
+---
+
+![snake gif](https://raw.githubusercontent.com/nasirvisione/snk/output/github-contribution-grid-snake.svg)
