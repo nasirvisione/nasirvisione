@@ -1,6 +1,6 @@
 
 
-#  Hi, I'm Nasir Uddin
+# Hi, I'm Nasir Uddin
 
 I’m an **Artificial Intelligence undergraduate at Rogers State University** and an **international student who loves exploring new things**. Every challenge I face becomes an opportunity to grow, and I carry that same mindset into my projects and learning.
 
@@ -40,8 +40,8 @@ I’m an **Artificial Intelligence undergraduate at Rogers State University** an
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nasirvisione&show_icons=true&theme=radical&count_private=true&include_all_commits=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasirvisione&layout=compact&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nasirvisione&show_icons=true&theme=radical&count_private=true&include_all_commits=true&cache_seconds=1800&token=${{ secrets.PAT_1 }}" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasirvisione&layout=compact&theme=radical&token=${{ secrets.PAT_1 }}" height="165"/>
 </p>
 
 <p align="center">
@@ -57,3 +57,7 @@ I’m an **Artificial Intelligence undergraduate at Rogers State University** an
 
 ---
 
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nasirvisione/nasirvisione/output/snake.svg" alt="GitHub Snake"/>
+</p>
