@@ -1,4 +1,4 @@
-<img src="A_digital_graphic_design_banner_features_Nasir_Udd.png" alt="Nasir Uddin Banner" width="100%"/>
+
 
 # 👋 Hi, I'm Nasir Uddin
 
