@@ -39,10 +39,6 @@ I’m an **Artificial Intelligence undergraduate at Rogers State University** an
 
 ## 📊 GitHub Stats
 
-<p align="center">
- 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasirvisione&layout=compact&theme=radical&token=${{ secrets.PAT_1 }}" height="165"/>
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=nasirvisione&theme=radical" alt="GitHub Streak"/>
